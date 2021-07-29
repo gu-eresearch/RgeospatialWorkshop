@@ -5,21 +5,20 @@ layout: default
 
 # Bootstrap Workshop Template!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="raster_analysis.jpg" width="100%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+# About this workshop
 
-*Add your workshop abstract here!*
+This is an intermediate workshop that will explore using the R statistics program for geospatial analysis.
+In the first lesson we will run through some general GIS operations in R.
+In the second lesson we will drive into geospatial analysis. We will preform geospatial pre-processing, get some explanatory statistics, and finally we build a simple species distribution model.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+If you would like a refresher on GIS concepts, click on the following link <a href='https://datacarpentry.org/organization-geospatial/'>An introduction to GIS concepts</a>
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
-{% include toc.html %}
+## Install R and R studio
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+{% include _includes/setup.jpg %}
 
 ------
 
