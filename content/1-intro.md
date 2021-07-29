@@ -3,9 +3,7 @@ title: Geospatial Analysis in R
 nav: Geospatial Analysis in R
 ---
 
-# Build a species distribution model
-
-We are going to create a simple probability distribution model for the iconic Alberts Lyrebird: https://www.youtube.com/watch?v=XjAcyTXRunY
+We are going to create a simple probability distribution model for the iconic <a href='https://www.youtube.com/watch?v=XjAcyTXRunY'>Alberts Lyrebird</a>
 We have point data for sightings of alberts lyrebirds, and we have raster layers for several environmental variables, such as elevation, protection status and vegetation cover.
 We will extract the the environmental variable data for each point that a lyrebird was sighted. 
 We will then create pseudo false points(i.e. places were lyrebirds were not sighted???) and extract environmental data from those points.
