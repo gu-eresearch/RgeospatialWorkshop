@@ -11,7 +11,7 @@ Finally we will create a glm probability curve and project that into a raster th
 
 Although this is a species distribution model, the same principals can be used to model anything across space.
 
-The data for this workshop is located <a href='data' download="dataset">here</a>, download the whole folder. 
+The data for this workshop is located <a href='./data' target='_blank'>here</a>, download all contents including the folders within this link. 
 
 Copy the following R script and save it. Open it up in Rstudio, you will need to change the directory in line 35 getwd() to the directory where you saved the above data.
 
