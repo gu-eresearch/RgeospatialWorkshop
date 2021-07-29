@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# An introduction to spatial analysis in R
 
 {% include figure.html img="raster_analysis.jpg" width="100%" %}
 
