@@ -18,7 +18,7 @@ If you would like a refresher on GIS concepts, click on the following link <a hr
 
 ## Install R and R studio
 
-{% include _includes/setup.html %}
+{% include setup.html %}
 
 ------
 
