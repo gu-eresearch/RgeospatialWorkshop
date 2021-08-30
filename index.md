@@ -20,12 +20,13 @@ If you would like a refresher on GIS concepts, click on the following link <a hr
 
 {% include setup.html %}
 
-------
-
-{% include template/credits.html %}
 
 ## Install QGIS
 
 QGIS is an open source point and click GIS program (similar to ArcGIS, but free). 
 
 It can be downloaded <a href='https://www.qgis.org' target='_blank'>here</a>.
+
+------
+
+{% include template/credits.html %}
