@@ -11,7 +11,7 @@ Finally we will create a glm probability curve and project that into a raster th
 
 Although this is a species distribution model, the same principals can be used to model anything across space.
 
-The data for this workshop is can be downloaded here: https://github.com/BrettParker/geospatial_analysis_in_R/tree/main/data Download all contents including the folders within this link. 
+The data for this workshop is can be downloaded <a href='https://downgit.github.io/#/home?url=https://github.com/gu-eresearch/RgeospatialWorkshop/blob/main/data/data.zip' target='_blank'> here</a>
 
 Copy the following R script and save it. Open it up in Rstudio, you will need to change the directory in line 35 getwd() to the directory where you saved the above data.
 
